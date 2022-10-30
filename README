@@ -1,0 +1,6 @@
+To run the program:
+
+1. Clone and get the repository
+2. Copy the path of "dataset" downloaded from my repository.
+3. Edit the path in the .R file
+4. Run the file to see the visualization of the clustering algorithm.
